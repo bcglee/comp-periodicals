@@ -12,12 +12,13 @@ In the past two decades, public and private efforts have digitized hundreds of m
 
 ## Who is invited?
 We welcome participants from the same diversity of backgrounds as the facilitators. Everyone from fairly traditional periodicals scholars and teachers to librarians and archivists to computer scientists are welcome. We see lots of exciting potential for these cross-disciplinary and professional exchanges.
-Why this unconference might be interesting for researchers in Black, Latinx, Latin American, Caribbean, and other areas
+
+### Why this unconference might be interesting for researchers in Black, Latinx, Latin American, Caribbean, and other areas
 We recognize that the critical work to advance computational periodicals studies requires ongoing collaboration between multiple areas of study. We see the powerful currents of work in Black DH, US Latinx DH, postcolonial DH, and multilingual DH as previews of the potential for critical computational periodicals studies.
 
 We think it is past time to talk about how computational methods can help us understand the craft and importance of historical periodicals for Black, Latinx, Indigenous, postcolonial, queer, and transnational cultures and communities. We also recognize that there are structural reasons why computational methods and cultural analysis rarely overlap. This unconference is a preliminary experiment in creating an intentional community. This meeting represents a first step to exploring potential collaborations and shared conversations. No prior knowledge of computational or digital methods is required to participate. 
 
-## Why this unconference might be interesting for computer scientists
+### Why this unconference might be interesting for computer scientists
 These conversations are an opportunity to advance computer science research in general and machine learning research in particular. While (largely white) digitized newspapers are a popular source of data for computer scientists across a range of research fields (NLP, computer vision, information retrieval, human-computer interaction, etc.), we need to find ways to preserve context, to attend to histories of racism and state violence, and to combat the reduction of lives into data. Awareness of contexts, histories, and pitfalls can help chart new research agendas into multimodal (i.e., visual and textual) sources as means to navigate, analyze, and discover patterns in collections such as Chronicling America’s 18-million pages or the Digital Library of the Caribbean. These conversations extend beyond periodicals to provide new lenses for computer science research with cultural heritage materials. No prior knowledge of historical periodicals is required to participate. 
 
 ## Approximate Schedule
