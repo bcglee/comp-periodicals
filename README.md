@@ -30,7 +30,7 @@ Please note that the exact date and times are still TBD.
 | Round-robin breakout rooms | 20 |
 | Proposing breakout room topics | 15 |
 | Brief intermission while facilitators distill topics | 10 |
-| Breakout roots | 45 |
+| Breakout rooms | 45 |
 | Reports out | 10 |
 | Next steps & collaborations | 10 |
 
