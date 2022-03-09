@@ -13,7 +13,7 @@ In the past two decades, public and private efforts have digitized hundreds of m
 ## Who is invited?
 We welcome participants from the same diversity of backgrounds as the facilitators. Everyone from fairly traditional periodicals scholars and teachers to librarians and archivists to computer scientists are welcome. We see lots of exciting potential for these cross-disciplinary and professional exchanges.
 
-### Why this unconference might be interesting for researchers in Black, Latinx, Latin American, Caribbean, and other areas
+### Why this unconference might be interesting for researchers in Black Studies, Latinx Studies, Latin American Studies, Caribbean Studies (and other areas)
 We recognize that the critical work to advance computational periodicals studies requires ongoing collaboration between multiple areas of study. We see the powerful currents of work in Black DH, US Latinx DH, postcolonial DH, and multilingual DH as previews of the potential for critical computational periodicals studies.
 
 We think it is past time to talk about how computational methods can help us understand the craft and importance of historical periodicals for Black, Latinx, Indigenous, postcolonial, queer, and transnational cultures and communities. We also recognize that there are structural reasons why computational methods and cultural analysis rarely overlap. This unconference is a preliminary experiment in creating an intentional community. This meeting represents a first step to exploring potential collaborations and shared conversations. No prior knowledge of computational or digital methods is required to participate. 
