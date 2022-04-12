@@ -2,7 +2,7 @@
 
 ### Unconference Organizers: Sarah H. Salter, Benjamin Charles Germain Lee, Joshua Ortiz Baco, and Jim Casey 
 
-This page serves as an invitation to our two-hour virtual “unconference” on the computational study of historical periodicals to be held in May 2022 at the [DH Unbound](https://dhunbound2022.ach.org/) conference of the ACH. 
+This page serves as an invitation to our two-hour virtual “unconference” on the computational study of historical periodicals to be held on May 18th, 2022, from 4:30EST to 6:30EST at the [DH Unbound](https://dhunbound2022.ach.org/) conference of the ACH. 
 
 ## Sign-up Form
 If you are interested in participating in the unconference, please use this Google Form: https://forms.gle/E1ZxTuv2wQsezgzw5
@@ -22,7 +22,8 @@ We think it is past time to talk about how computational methods can help us und
 These conversations are an opportunity to advance computer science research in general and machine learning research in particular. While (largely white) digitized newspapers are a popular source of data for computer scientists across a range of research fields (NLP, computer vision, information retrieval, human-computer interaction, etc.), we need to find ways to preserve context, to attend to histories of racism and state violence, and to combat the reduction of lives into data. Awareness of contexts, histories, and pitfalls can help chart new research agendas into multimodal (i.e., visual and textual) sources as means to navigate, analyze, and discover patterns in collections such as Chronicling America’s 18-million pages or the Digital Library of the Caribbean. These conversations extend beyond periodicals to provide new lenses for computer science research with cultural heritage materials. No prior knowledge of historical periodicals is required to participate. 
 
 ## Approximate Schedule
-Please note that the exact date and times are still TBD.
+Date: May 18th, 2022
+Time: 4:30EST to 6:30EST
 
 | Segment | Time (minutes) | 
 | --- | --- |
